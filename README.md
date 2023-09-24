@@ -34,8 +34,9 @@ ColorHarvest is a lightweight and user-friendly color picker extension that allo
 4. Easily copy the hex or RGB values to your clipboard.
 
 ## Screenshots
-![Screenshot 1](https://github.com/bhavesh-03/ColorHarvest-Chrome-Extension/assets/97275829/d0006119-ab04-4ede-a0ee-68204edc0d0c)
-![Screenshot 2](https://github.com/bhavesh-03/ColorHarvest-Chrome-Extension/assets/97275829/6d348bf5-9d92-45f1-bb9b-043021e68772)
+<img src="https://github.com/bhavesh-03/ColorHarvest-Chrome-Extension/assets/97275829/d0006119-ab04-4ede-a0ee-68204edc0d0c" alt="drawing" width="200"/>
+<img src="https://github.com/bhavesh-03/ColorHarvest-Chrome-Extension/assets/97275829/6d348bf5-9d92-45f1-bb9b-043021e68772" alt="drawing" width="200"/>
+
 
 
 ## Acknowledgments
