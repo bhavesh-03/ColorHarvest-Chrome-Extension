@@ -37,21 +37,13 @@ ColorHarvest is a lightweight and user-friendly color picker extension that allo
 ![ColorHarvest Screenshot 1](https://example.com/screenshot-1.png)
 ![ColorHarvest Screenshot 2](https://example.com/screenshot-2.png)
 
-## Contributing
-
-We welcome contributions from the community. If you have any ideas, bug reports, or feature requests, please [open an issue](https://github.com/yourusername/colorharvest/issues) or [submit a pull request](https://github.com/yourusername/colorharvest/pulls).
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
 
 ## Acknowledgments
 
 - ColorHarvest was inspired by the love of colors and the need for a simple and efficient color picker tool.
-- Special thanks to the open-source community for their valuable contributions.
 
 ---
 
-**ColorHarvest** is a project by [Your Name](https://github.com/yourusername).
+**ColorHarvest** is a project by Bhaevsh Mankar(https://github.com/bhavesh-03).
 
 Enjoy picking and harvesting your favorite colors with ColorHarvest! 🌈
