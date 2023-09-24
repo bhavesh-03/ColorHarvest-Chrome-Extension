@@ -1,6 +1,6 @@
 # ColorHarvest - A Simple Color Picker Extension
 
-![ColorHarvest Logo]([https://example.com/colorharvest-logo.png](https://ibb.co/JHzFthr))
+![ColorHarvest Logo](https://ibb.co/JHzFthr)
 
 ColorHarvest is a lightweight and user-friendly color picker extension that allows you to easily select and save your favorite colors while browsing the web. Whether you're a web designer, developer, or just someone who loves colors, ColorHarvest makes it simple to collect and manage your color inspirations.
 
