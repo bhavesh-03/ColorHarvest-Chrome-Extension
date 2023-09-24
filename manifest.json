@@ -1,0 +1,12 @@
+{
+    "manifest_version":1,
+    "name":"ColorHarvest : Your go to Colour Picker.",
+    "description" : "Effortlessly extract and explore vibrant colors from any web page with our intuitive color picker extension",
+    "version":"1.0",
+    "action":{
+        "default_popup":"index.html"
+    },
+    "icons":{
+        "512":"icon.png"
+    }
+}
